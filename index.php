@@ -12,7 +12,7 @@
             <div class="hide" id="header">
                 <div class="r1000">
                     <h1>
-                        <img src="images/gdays_uganda_logo.png" style="max-height: 80px;margin-top: -7px;" />
+                        <img src="images/gdays_kenya_logo.png" style="max-height: 80px;margin-top: -7px;" />
                     </h1>
                     <nav>
                         <ul class="subMenu">
@@ -30,7 +30,7 @@
             <div id="shw-hdr">
                 <nav>
                     <h1>
-                        <img src="images/gdays_uganda_logo.png"  />
+                        <img src="images/gdays_kenya_logo.png"  />
                     </h1>
                     <ul class="subMenu">
                         <li><a href="#w" class="bt" id="s2">About<hr>G|Days</a></li>
@@ -54,7 +54,7 @@
                         <div style="padding:5px;"></div>
                         <h2>
 
-                            A tech conference for Ugandan businesses, entrepreneurs and developers
+                            A tech conference for Kenyan businesses, entrepreneurs and developers
                             to encourage collaboration between different communities
                             at different levels
 
@@ -69,17 +69,17 @@
                         <div class="section s2">
                             <div class="inner">
 
-                                <h1>About G|Days Uganda</h1>
+                                <h1>About G|Days Kenya</h1>
 
 
                                 <div id="abt">
 
-                                    G|Days Uganda is a community-organized conference with the mission of building an ecosystem of top developers, business / decision makers and students in Uganda.
+                                    G|Days Kenya is a community-organized conference with the mission of building an ecosystem of top developers, business / decision makers and students in Kenya.
                                     The event this year is powered by the Google Developer Groups, Google Business Groups and Google Student Ambassadors.
 
-                                    <P> <a target="_blank" href="https://docs.google.com/forms/d/1xvWlL7gE9dztoTn5bg10HfnvZX4ctnM4WYaTmsrmnTM/viewform" style="font-size: 18px;font-weight: bold;color:#0066ff">REGISTER HERE!</a> <P>
-                                    <p> Date: <span style="color:#333;font-weight: bold;">November 22nd, 2013 </span></p>
-                                    <p> Venue: <span style="color:red;"><a href="https://maps.google.com/maps?daddr=Cineplex+Cinema,+Access+Road,+Kampala,+Uganda&hl=en&sll=0.318728,32.592249&sspn=0.006276,0.010568&geocode=FQjdBAAdeVHxASmRuWdBhrt9FzFiVzWUDfDtpw&dirflg=w&mra=ltm&t=m&z=17" style="color:#0066ff">Cineplex, Oasis Mall</a></span></p>
+                                    <!--<P> <a target="_blank" href="https://docs.google.com/forms/d/1xvWlL7gE9dztoTn5bg10HfnvZX4ctnM4WYaTmsrmnTM/viewform" style="font-size: 18px;font-weight: bold;color:#0066ff">REGISTER HERE!</a> <P> -->
+                                    <p> Date: <span style="color:#333;font-weight: bold;">August 19th, 2014 </span></p>
+                                    <p> Venue: <span style="color:red;"><a href="https://www.google.com/maps/place/Strathmore+Business+School/@-1.309218,36.81268,18z/data=!3m1!4b1!4m2!3m1!1s0x182f10f7f93622cf:0x28ef1277cf4abe5e" style="color:#0066ff">Strathmore Business School</a></span></p>
 
 
 
@@ -95,13 +95,14 @@
                                     <p>The GDG can take many forms — from just a few people getting together to watch the latest developer video, to large gatherings with demos and tech talks, to events like code sprints and hackathons. However, at the core, GDGs are focused on developers and technical content, and the core audience are  developers.</p>
 
 
-                                    <p>There are over 7 GDG chapters in Uganda including; GDG Kampala,
-                                        GDG Makerere,
-                                        GDG Busitema,
-                                        GDG Mbale,
-										GDG Mukono,
-                                        GDG Gulu &
-                                        GDG Mbarara </p>
+                                    <p>There are over 7 GDG chapters in Kenya including; GDG Kampala,
+                                        GDG Mombasa,
+                                        GDG Nairobi,
+                                        GDG Kimathi University,
+										GDG Kisumu,
+                                        GDG MMUST
+                                        GDG JKUAT, &
+                                        GDG Strathmore </p>
                                 </article>
 
                                 <br />
@@ -118,7 +119,7 @@
                                     </p>
 
 
-                                    <p>There is one GBG chapter in Uganda. i.e GBG KAMPALA which is a
+                                    <p>There is one GBG chapter in Kenya. i.e GBG NAIROBI which is a
                                         community driven forum, chapter members meet and learn from fellow members
                                         (experienced professionals) passionate to help local businesses grow with the help of Google technologies.
                                         Many more chapters are yet to come.
@@ -146,13 +147,16 @@
 
 
 
-                                    <p>Majority of the universities in Uganda have Google Student Ambassadors. For example:
-                                        Makerere University,
-                                        Busitema University,
-                                        Uganda Christian University,
-                                        Kyambogo University,
-                                        Mbarara University of Science and Technology &
-                                        Gulu university
+                                    <p>Majority of the universities in Kenya have Google Student Ambassadors. For example:
+                                        University of Nairobi,
+                                        Jomo Kenyatta University of Technology,
+                                        Kenyatta University,
+                                        Maseno University,
+                                        Kimathi University,
+                                        Moi University,
+                                        Kenya Methodist University
+                                        Strathmore University &
+                                        Egerton University
                                     </p>
                                 </article>
 
@@ -187,69 +191,69 @@
                                                 </tr>
                                                 <tr>
                                                     <td style="height:56px; width:218px">
-                                                        <p>Richard Zulu</p>
+                                                        <p>Said Fuad</p>
                                                     </td>
                                                     <td style="height:56px; width:218px">
-                                                        <p>GDG Kampala</p>
+                                                        <p>GDG Mentor Kenya</p>
                                                     </td>
                                                     <td style="height:56px; width:218px">
-                                                        <p>zulu@outbox.co.ug</p>
+                                                        <p>saidfuad91@gmail.com</p>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td style="height:59px; width:218px">
-                                                        <p>Nicholas Kamanzi</p>
+                                                        <p>Anthony Nandaa</p>
                                                     </td>
                                                     <td style="height:59px; width:218px">
                                                         <p>&nbsp;</p>
 
-                                                        <p>GDG Busitema</p>
+                                                        <p>GDG Nairobi</p>
                                                     </td>
                                                     <td style="height:59px; width:218px">
-                                                        <p>nickkamanzi@gmail.com</p>
+                                                        <p>profnandaa@gmail.com</p>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td style="height:56px; width:218px">
-                                                        <p>Hassan Nsubuga</p>
+                                                        <p>Kenneth Kinyanjui</p>
                                                     </td>
                                                     <td style="height:56px; width:218px">
-                                                        <p>GDG Mbale</p>
+                                                        <p>GDG Kimathi University</p>
                                                     </td>
                                                     <td style="height:56px; width:218px">
-                                                        <p>nsubugahassan@gmail.com</p>
+                                                        <p>kenmbugua@gmail.com</p>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td style="height:59px; width:218px">
-                                                        <p>Emily Karungi</p>
+                                                        <p>Alifiyah Ganijee</p>
                                                     </td>
                                                     <td style="height:59px; width:218px">
-                                                        <p>GDG Makerere</p>
+                                                        <p>GDG Mombasa</p>
                                                     </td>
                                                     <td style="height:59px; width:218px">
-                                                        <p>ekar45@gmail.com</p>
+                                                        <p>alifiya.037@gmail.com</p>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td style="height:56px; width:218px">
-                                                        <p>Joyce Tonda</p>
+                                                        <p>Mercy Orangi</p>
                                                     </td>
                                                     <td style="height:56px; width:218px">
-                                                        <p>GBG Kampala</p>
+                                                        <p>GBG Nairobi</p>
                                                     </td>
                                                     <td style="height:56px; width:218px">
-                                                        <p>jonaiga@gmail.com</p>
+                                                        <p>mercyorangi@gmail.com</p>
                                                     </td>
 												<tr>
                                                     <td style="height:59px; width:218px">
-                                                        <p>Angelina Muga</p>
+                                                        <p>Louis Wajeiya</p>
                                                     </td>
                                                     <td style="height:59px; width:218px">
-                                                        <p>GSA Makerere</p>
+                                                        <p>GBG Nairobi</p>
                                                     </td>
                                                     <td style="height:59px; width:218px">
-                                                        <p>angelinemuga@gmail.com</p>
+                                                        <p>louis@intellisoftplus.com</p>
                                                     </td>
                                                 </tr>
 
@@ -276,15 +280,15 @@
                             <center>
 
                                 <h1 style="color: rgb(220, 67, 56)">
-                                    AGENDA FOR <strong>G|Days</strong> UGANDA 2013
+                                    AGENDA FOR <strong>G|Days</strong> KENYA 2014
 
                                 </h1>
-								<p> Date: <span style="color:#333;font-weight: bold;">November 22nd, 2013 </span></p>
+								<p> Date: <span style="color:#333;font-weight: bold;">August 19th, 2014 </span></p>
 
                                 <h2 style="color: rgb(75, 75, 75)">Theme: Bridging the gap between developers and business owners</h2>
 
                                 <p>&nbsp;</p>
-
+                                <!--
                                 <table border="1" cellpadding="0" cellspacing="0" style="width:624px">
                                     <tbody>
                                         <tr>
@@ -526,7 +530,7 @@
                                 </table>
 
                                 <div>
-                                    <hr /></div>
+                                    <hr /></div> -->
 
                             </center>
 

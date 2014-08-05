@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html lang="en" dir="ltr">
     <head>
-        <title>G|Days Uganda</title>
+        <title>G|Days Kenya</title>
         <meta charset="utf-8">
         <link rel="stylesheet" href="fonts/stylesheet.css" media="all">
         <link rel="stylesheet" href="css/main.css" media="all">
@@ -18,7 +18,7 @@
                     <div id="footer">
                         <div class="wrap clearFix">
                             <div id="copyright" class="clearFix">
-                                <p class="floatLeft">&copy; August 2013 &ndash; <a href="https://docs.google.com/forms/d/1xvWlL7gE9dztoTn5bg10HfnvZX4ctnM4WYaTmsrmnTM/viewform"> G|Days Uganda </a>, All rights reserved</p>
+                                <p class="floatLeft">&copy; August 2014 &ndash; <a href="https://docs.google.com/forms/d/1xvWlL7gE9dztoTn5bg10HfnvZX4ctnM4WYaTmsrmnTM/viewform"> G|Days Kenya</a>, All rights reserved</p>
                             </div>
                         </div>
                     </div>
@@ -40,7 +40,7 @@
         <script src="js/jquery.validate.js"></script>
         <script src="js/jquery.smint.js"></script>
         <script src="js/contact.js"></script>
-        <script src="contactportal.js"></script>	
+        <script src="contactportal.js"></script>
 
     </body>
 </html>

@@ -549,7 +549,7 @@
                     <div id="footer">
                         <div class="wrap clearFix">
                             <div id="copyright" class="clearFix">
-                                <p class="floatLeft">&copy; November 2013 &ndash; <a href="https://docs.google.com/forms/d/1xvWlL7gE9dztoTn5bg10HfnvZX4ctnM4WYaTmsrmnTM/viewform"> G|Days Uganda </a>, All rights reserved</p>
+                                <p class="floatLeft">&copy; November 2014 &ndash; <a href="https://docs.google.com/forms/d/1xvWlL7gE9dztoTn5bg10HfnvZX4ctnM4WYaTmsrmnTM/viewform"> G|Days Kenya </a>, All rights reserved</p>
                             </div>
                         </div>
                     </div>

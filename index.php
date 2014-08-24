@@ -77,9 +77,9 @@
                                     G|Days Kenya is a community-organized conference with the mission of building an ecosystem of top developers, business / decision makers and students in Kenya.
                                     The event this year is powered by the Google Developer Groups, Google Business Groups and Google Student Ambassadors.
 
-                                    <!--<P> <a target="_blank" href="https://docs.google.com/forms/d/1xvWlL7gE9dztoTn5bg10HfnvZX4ctnM4WYaTmsrmnTM/viewform" style="font-size: 18px;font-weight: bold;color:#0066ff">REGISTER HERE!</a> <P> -->
-                                    <p> Date: <span style="color:#333;font-weight: bold;">August 19th, 2014 </span></p>
-                                    <p> Venue: <span style="color:red;"><a href="https://www.google.com/maps/place/Strathmore+Business+School/@-1.309218,36.81268,18z/data=!3m1!4b1!4m2!3m1!1s0x182f10f7f93622cf:0x28ef1277cf4abe5e" style="color:#0066ff">Strathmore Business School</a></span></p>
+                                    <P> <a target="_blank" href="http://www.eventbrite.com/e/gdays-kenya-2014-tickets-12720556527" style="font-size: 18px;font-weight: bold;color:#0066ff">REGISTER HERE!</a> <P>
+                                    <p> Date: <span style="color:#333;font-weight: bold;">September 6th, 2014 </span></p>
+                                    <p> Venue: <span style="color:red;"><a href="https://www.google.com/maps/place/Nairobi+Garage+%28Home+of+88mph%29/@-1.299408,36.765189,17z/data=!3m1!4b1!4m2!3m1!1s0x182f1a6bfcbf092d:0xddde1044340513ad" style="color:#0066ff">Startup Garage Nairobi 88mph</a></span></p>
 
 
 
